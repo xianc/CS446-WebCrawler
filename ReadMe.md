@@ -47,16 +47,25 @@ This method checks the robot.txt file of an url. This is done by obtaining the h
 
 
 ###3a. wget
+
 Command: 
+
 wget -r -w 5 -A pdf -H -D cs.umass.edu ciir.cs.umass.edu 2> temp
+
 cat temp | grep "saved"  | more | awk ‘{print $6}’ > url.txt
 
 -r : allows the crawler to recursively crawl pages
+
 -w 5 : wait 5 second after each crawl
+
 -H : makes the crawler search outside of the initial domain that it is given
+
 -D : tells the crawler to only crawl cs.umass.edu and ciir.cs.umass.edu
+
 2> output to a temporary file
+
 grep “saved” | more : looks at the line that contains the word “saved”
+
 awk ‘{print $6}’ : displays only the 6th column in the temp file
 
 
@@ -72,9 +81,14 @@ The differences in links is probably due to the different way the wget and the j
 
 ###5. References
 wget flags: http://www.gnu.org/software/wget/manual/wget.html
+
 Queue: http://docs.oracle.com/javase/7/docs/api/java/util/Queue.html
+
 BufferedReader: http://docs.oracle.com/javase/7/docs/api/java/io/BufferedReader.html
+
 Check if a page exist: http://stackoverflow.com/questions/1378199/how-to-check-if-a-url-exists-or-returns-404-with-java
+
 String.matches: http://stackoverflow.com/questions/2275004/in-java-how-to-check-if-a-string-contains-a-substring-ignoring-the-case
+
 Pausing a program: http://docs.oracle.com/javase/tutorial/essential/concurrency/sleep.html
 
