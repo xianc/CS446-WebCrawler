@@ -1,0 +1,336 @@
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/index.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/about/index.html
+*STATUS: UNIQUE LINK FOUND: http://iesl.cs.umass.edu/
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/publications/index.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/membership/member.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/personnel/index.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/whatsnew/index.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/contact/index.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/index.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/index.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/about/index.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/about/index.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/research/irlab/index.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/research/mir/mir.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~croft
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~allan
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/~manmatha/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~marlin
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~wallach
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/projects/index.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/research/completed.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/membership/member_list.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/about/history.html
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://iesl.cs.umass.edu/
+*STATUS: CHECKING ROBOTS...
+
+Host https://iesl.cs.umass.edu
+Link http://iesl.cs.umass.edu/
+Robots File: https://iesl.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: NO ROBOTS. SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/publications/index.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/publications/index.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/membership/member.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/membership/member.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/personnel/index.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/personnel/index.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~dietz/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~keikham/
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/personnel/jean.html
+*STATUS: UNIQUE LINK FOUND: http://balder.cs.umass.edu/~kate/Site/Movie.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/personnel/stowell.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~elif
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~kedarb
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~efcan
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/~jdalton
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~vdang
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~sjh
+*STATUS: UNIQUE LINK FOUND: https://cs.umass.edu/~kriste/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~narad
+*STATUS: UNIQUE LINK FOUND: http://people.cs.umass.edu/~sameer/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mwick
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~zeki
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~lmyao
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/whatsnew/index.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/whatsnew/index.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/whatsnew/awards.html
+*STATUS: UNIQUE LINK FOUND: https://people.cs.umass.edu/~kriste/
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/jobs
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/news/latest-news/eric-brown-and-watson-take-jeopardy-challenge
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/whatsnew/query-evolution-france.pdf
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/personnel/dasmith.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/csinfo/announce/msrfellows06.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/research/wordspotting/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/csinfo/announce/croft_saltonaward.html
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/contact/index.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/contact/index.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/about/visiting-department
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://cs.umass.edu/
+*STATUS: CHECKING ROBOTS...
+
+Host https://cs.umass.edu
+Link http://cs.umass.edu/
+Robots File: https://cs.umass.edu/robots.txt
+-------------------------------------
+ROBOTS: Crawl-delay: 10
+*STATUS: CRAWL DELAY FOUND: 10 SEC
+*STATUS: DEALYING CRAWL BY: 10 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: https://cs.umass.edu/
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/research/irlab/index.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/research/irlab/index.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+**BROKEN LINK: 404 http://ciir.cs.umass.edu/research/research/irlab/index.html
+**BROKEN LINK: 404 http://ciir.cs.umass.edu/research/research/mir/mir.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/research/irlab/irlabphds.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/research/irlab/irlabpapers.html
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/research/mir/mir.html
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/research/mir/mir.html
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+**BROKEN LINK: 404 http://ciir.cs.umass.edu/research/research/irlab/index.html
+**BROKEN LINK: 404 http://ciir.cs.umass.edu/research/research/mir/mir.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/irdemo/hw-demo/
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://cs.umass.edu/~croft
+*STATUS: CHECKING ROBOTS...
+
+Host https://cs.umass.edu
+Link http://cs.umass.edu/~croft
+Robots File: https://cs.umass.edu/robots.txt
+-------------------------------------
+ROBOTS: Crawl-delay: 10
+*STATUS: CRAWL DELAY FOUND: 10 SEC
+*STATUS: DEALYING CRAWL BY: 10 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/personnel/croftbio.pdf
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://cs.umass.edu/~allan
+*STATUS: CHECKING ROBOTS...
+
+Host https://cs.umass.edu
+Link http://cs.umass.edu/~allan
+Robots File: https://cs.umass.edu/robots.txt
+-------------------------------------
+ROBOTS: Crawl-delay: 10
+*STATUS: CRAWL DELAY FOUND: 10 SEC
+*STATUS: DEALYING CRAWL BY: 10 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://cs.umass.edu/~mccallum/
+*STATUS: CHECKING ROBOTS...
+
+Host https://cs.umass.edu
+Link http://cs.umass.edu/~mccallum/
+Robots File: https://cs.umass.edu/robots.txt
+-------------------------------------
+ROBOTS: Crawl-delay: 10
+*STATUS: CRAWL DELAY FOUND: 10 SEC
+*STATUS: DEALYING CRAWL BY: 10 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/photos
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/faculty/faculty-directory
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/contact.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/bio.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/mccallum-vita.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/pubs.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/talks.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/projects.html
+**BROKEN LINK: 404 http://iesl.cs.umass.edu/people
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/code.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/data.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/teaching.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/personal.html
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/people.html
+*STATUS: UNIQUE LINK FOUND: http://factorie.cs.umass.edu/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/papers/ge08note.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/papers/druck08sigir.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~mccallum/papers/acm-queue-ie.pdf
+**BROKEN LINK: 404 http://cs.umass.edu/~mimno/icml100.html
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://ciir.cs.umass.edu/~manmatha/
+*STATUS: CHECKING ROBOTS...
+
+Host https://ciir.cs.umass.edu
+Link http://ciir.cs.umass.edu/~manmatha/
+Robots File: https://ciir.cs.umass.edu/robots.txt
+-------------------------------------
+*STATUS: DEALYING CRAWL BY: 5 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+**BROKEN LINK: 404 http://ciir.cs.umass.edu/~mmedia/index.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/~manmatha/papers/sigir03.pdf
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/~manmatha/papers/SenSys08.pdf
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/~manmatha/research.html
+*STATUS: UNIQUE LINK FOUND: http://ciir.cs.umass.edu/~manmatha/mmpapers.html
+**BROKEN LINK: 404 http://ciir.cs.umass.edu/~mmedia/
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://cs.umass.edu/~marlin
+*STATUS: CHECKING ROBOTS...
+
+Host https://cs.umass.edu
+Link http://cs.umass.edu/~marlin
+Robots File: https://cs.umass.edu/robots.txt
+-------------------------------------
+ROBOTS: Crawl-delay: 10
+*STATUS: CRAWL DELAY FOUND: 10 SEC
+*STATUS: DEALYING CRAWL BY: 10 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+-------------------------------------
+*STATUS: WANT TO CRAWL...http://cs.umass.edu/~wallach
+*STATUS: CHECKING ROBOTS...
+
+Host https://cs.umass.edu
+Link http://cs.umass.edu/~wallach
+Robots File: https://cs.umass.edu/robots.txt
+-------------------------------------
+ROBOTS: Crawl-delay: 10
+*STATUS: CRAWL DELAY FOUND: 10 SEC
+*STATUS: DEALYING CRAWL BY: 10 SEC
+*STATUS: SAFE TO CRAWL
+*STATUS: CRAWLING...
+-------------------------------------
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/courses/f12/cmpsci691bm/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/courses/s12/cmpsci240/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/workshops/nips2011css/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/courses/s11/cmpsci791ss/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/workshops/nips2010css/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/research.pdf
+*STATUS: UNIQUE LINK FOUND: http://people.cs.umass.edu/~aschein/
+**BROKEN LINK: 404 http://cs.umass.edu/~mday/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~pkrafft/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~jingyi/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~ravali/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~jmoore/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/~abakalov/
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/theses/wallach_phd_thesis.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/publications/passos11correlations.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/publications/mimno09polylingual.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/publications/mimno08gibbs.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/publications/wallach06topic.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/2013-07-03_MSR_NE.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/2013-05-01_NEML.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/ml_intro.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/2011-07-31_JSM.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/2011-04-05_JHU.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/2011-04-05_CLSP.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/learning_dbns.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/jitp.pdf
+*STATUS: UNIQUE LINK FOUND: http://cs.umass.edu/talks/2010-04-05_UMass.pdf
+*STATUS: 100 UNIQUE LINKS FOUND; EXITING PROGRAM.
