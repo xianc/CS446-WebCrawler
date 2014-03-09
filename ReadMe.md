@@ -8,15 +8,15 @@ Table of Contents
 
 2. Java web crawler implementation
 
-&nbsp; a. processLink method
+&nbsp;&nbsp;&nbsp; a. processLink method
 	
-&nbsp; b. checkRobots method
+&nbsp;&nbsp;&nbsp; b. checkRobots method
 	
 3. First 100 URLs
 
-&nbsp; a. wget unique 100 list
+&nbsp;&nbsp;&nbsp; a. wget unique 100 list
 	
-&nbsp; b. java crawler in (1)  unique 100 list
+&nbsp;&nbsp;&nbsp; b. java crawler in (1)  unique 100 list
 	
 4. Comparison
 
